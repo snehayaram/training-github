@@ -1,3 +1,3 @@
 # training-github
 
-this is for traning purpose!.
+this is for traning purpose!
